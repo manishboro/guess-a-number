@@ -2,7 +2,7 @@
   "name": "guess-a-number",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://manishboro.github.io/",
+  "homepage": "https://manishboro.github.io/guess-a-number",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
