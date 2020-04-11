@@ -1,0 +1,26 @@
+@import "~bootstrap/scss/bootstrap";
+
+.rules {
+  height: 100%;
+  width: 100%;
+  font-family: "Bigelow Rules", cursive;
+
+  &-header {
+    text-align: center;
+    font-size: 6rem;
+    color: #0ccac4;
+  }
+
+  &-content {
+    padding: 0;
+    color: white;
+    font-size: 3rem;
+    text-align: center;
+    font-family: "BenchNine", sans-serif;
+  }
+
+  &-content li {
+    margin: 2rem 0;
+    letter-spacing: 1px;
+  }
+}

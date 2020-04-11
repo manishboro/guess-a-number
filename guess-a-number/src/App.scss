@@ -1,0 +1,29 @@
+@import "./mixins.scss";
+
+//Layer 3
+.particle {
+  position: absolute;
+  width: 100vw;
+  z-index: 5;
+  background-image: linear-gradient(
+    to right,
+    rgb(249, 23, 232),
+    rgb(45, 224, 244)
+  );
+  top: 8rem;
+  left: 0;
+  height: calc(100vh - 8rem);
+
+  @include respond(tab-port) {
+    top: 6rem;
+    height: calc(100vh - 6rem);
+  }
+}
+
+//Layer 2
+.section-main {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  z-index: 7;
+}
