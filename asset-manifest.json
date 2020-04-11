@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/guess-a-number/static/css/main.a185f102.chunk.css",
+    "main.js": "/guess-a-number/static/js/main.143979f1.chunk.js",
+    "main.js.map": "/guess-a-number/static/js/main.143979f1.chunk.js.map",
+    "runtime-main.js": "/guess-a-number/static/js/runtime-main.a284c768.js",
+    "runtime-main.js.map": "/guess-a-number/static/js/runtime-main.a284c768.js.map",
+    "static/js/2.af389951.chunk.js": "/guess-a-number/static/js/2.af389951.chunk.js",
+    "static/js/2.af389951.chunk.js.map": "/guess-a-number/static/js/2.af389951.chunk.js.map",
+    "index.html": "/guess-a-number/index.html",
+    "precache-manifest.1dce68ffee68f8ccd8fc674acb6cc44c.js": "/guess-a-number/precache-manifest.1dce68ffee68f8ccd8fc674acb6cc44c.js",
+    "service-worker.js": "/guess-a-number/service-worker.js",
+    "static/css/main.a185f102.chunk.css.map": "/guess-a-number/static/css/main.a185f102.chunk.css.map",
+    "static/js/2.af389951.chunk.js.LICENSE.txt": "/guess-a-number/static/js/2.af389951.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a284c768.js",
+    "static/js/2.af389951.chunk.js",
+    "static/css/main.a185f102.chunk.css",
+    "static/js/main.143979f1.chunk.js"
+  ]
+}
